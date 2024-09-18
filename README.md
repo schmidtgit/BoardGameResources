@@ -18,9 +18,9 @@ Premium | Released in 2015, **Berserk Games**
 [^3]: 18/09/2024 - SteamSpy.
 
 #### Yucata ![DE](https://flagcdn.com/w20/de.png)
-Play board games in the browser in 2D, 160+ different games for free.  
-Free. Founded 2001, **Tprivate**.  
-374.000+ monthly visits[yucata] | [Official Website]([https://tabletopia.com/](https://www.yucata.de/))
+Play board games in the browser in 2D, 150+ different games for free.  
+Free. Founded 2001, **private**.  
+374.000+ monthly visits[^yucata] | [Official Website]([https://tabletopia.com/](https://www.yucata.de/))
 [^yucata]: 18/09/2024 - SimilarWeb.
 
 #### TableTopia ![US](https://flagcdn.com/w20/us.png)
