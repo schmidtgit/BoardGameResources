@@ -6,7 +6,7 @@ An (incomplete) collection of useful resources for board game enthusiasts - or p
 ## Play Online
 #### Board Game Arena ![US](https://flagcdn.com/w20/us.png)
 Play board games in the browser in 2D, almost 1000 different games (free and premium).  
-Free | Subscription. Founded 2010, owned by **Asmodée(Embracer Group 🇸🇪)** since 2021[^1].   
+Free | Subscription. Founded 2010, owned by **Asmodée (Embracer Group)** since 2021[^1].   
 10M+ users, 20M+ monthly visits[^2] | [Official Website]  (https://boardgamearena.com/)
 [^1]: Official Press Release, [link](https://forum.boardgamearena.com/viewtopic.php?f=3&t=19638&p=79549)
 [^2]: 18/09/2024 - SimilarWeb and their own website.
@@ -16,6 +16,12 @@ Play board games on desktop in 3D, 40+ official premium games and free community
 Premium | Released in 2015, **Berserk Games**  
 2-5M copies sold[^3] | **[Official Website](https://www.tabletopsimulator.com/)**  
 [^3]: 18/09/2024 - SteamSpy.
+
+#### Yucata ![DE](https://flagcdn.com/w20/de.png)
+Play board games in the browser in 2D, 160+ different games for free.  
+Free. Founded 2001, **Tprivate**.  
+374.000+ monthly visits[yucata] | [Official Website]([https://tabletopia.com/](https://www.yucata.de/))
+[^yucata]: 18/09/2024 - SimilarWeb.
 
 #### TableTopia ![US](https://flagcdn.com/w20/us.png)
 Play board games in the browser in 3D, 2500+ different games (free and premium).  
