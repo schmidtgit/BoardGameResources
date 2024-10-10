@@ -102,6 +102,7 @@ Free | Affiliate Marketing. Founded 2010, **AnyFinder**.
 - **[Board Game Review (.co.uk)](https://boardgamereview.co.uk/)**
 - **[Board Games Wizard](https://www.boardgameswizard.com/)**
 - **[Dice Tower](https://www.dicetower.com/)**
+- **[Board Game Hits](https://boardgamehits.com/)**
 
 ## Discord Channels
 #### Shut Up & Sit Down
