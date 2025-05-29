@@ -31,23 +31,29 @@ Free | Subscription | Merch. Founded 2014, **Tabletopia Inc**.
 
 ## Board Game Tools/Apps
 
+#### Kallax ![DK](https://flagcdn.com/w20/dk.png)
+Collection management, collection viewer, search, game night planning
+Free | Donation. Founded 2021, **private**.  
+7300+ users[^9] | [Official Website](https://kallax.io/)  
+[^9]: 18/09/2024 - Me.
+
 #### GeekGroup ![GB](https://flagcdn.com/w20/gb.png)
 Collection viewer, statistics, search 
 Free | Donation. Founded 2019, **private**.  
 100.000+ viewers[^geekgroup] | [Official Website]([https://kallax.io/](https://geekgroup.app/))  
 [^geekgroup]: 09/10/2024 - SimilarWeb.
 
-#### Kallax ![DK](https://flagcdn.com/w20/dk.png)
-Collection management, collection viewer, search, game night planning
-Free | Donation. Founded 2021, **private**.  
-5000+ users[^9] | [Official Website](https://kallax.io/)  
-[^9]: 18/09/2024 - Me.
-
 #### Recommend.Games ![FI](https://flagcdn.com/w20/fi.png)
 Board game recommendations based on your BGG ratings
 Free | Donation. Founded 2018, **private**.  
 15.000+ monthly visits[^recommend] | [Official Website](https://recommend.games/)  
 [^recommend]: 09/10/2024 - SimilarWeb.
+
+#### Game Night Picks ![US](https://flagcdn.com/w20/us.png)
+Forum-style board game event exploration
+Free. Founded 2023, **private**.  
+3.700+ usersvisits[^13] | [Official Website]([https://recommend.games/](https://gamenightpicks.com/))  
+[^13]: 29/05/2025 - according to their own website.
 
 ## Websites
 #### BoardGameGeek ![US](https://flagcdn.com/w20/us.png)
