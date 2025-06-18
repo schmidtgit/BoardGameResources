@@ -52,8 +52,14 @@ Free | Donation. Founded 2018, **private**.
 #### Game Night Picks ![US](https://flagcdn.com/w20/us.png)
 Forum-style board game event exploration
 Free. Founded 2023, **private**.  
-3.700+ usersvisits[^13] | [Official Website]([https://recommend.games/](https://gamenightpicks.com/))  
+3.700+ usersvisits[^13] | [Official Website](https://gamenightpicks.com/)
 [^13]: 29/05/2025 - according to their own website.
+
+#### Aftergame ![US](https://flagcdn.com/w20/us.png)
+Play logs, board game night planner, collection management.
+Freemium | Sells Data Insights. Founded 2023, **private**.  
+~5000 downloads[^aftergame] | [Official Website](https://www.aftergame.co/)
+[^aftergame]: 18/06/2025 - Google Play and App Store.
 
 ## Websites
 #### BoardGameGeek ![US](https://flagcdn.com/w20/us.png)
