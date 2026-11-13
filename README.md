@@ -88,7 +88,7 @@ Free | Affiliate Marketing. Founded 2010, **AnyFinder**.
 
 #### MeepleTracker ![ES](https://flagcdn.com/w20/es.png)
 Price runner for board games. Europe and North America.  
-Free | Affiliate Marketing. Founded 2026, **AnyFinder**.  
+Free | Affiliate Marketing. Founded 2026, **private**
 unknown monthly visits | [Official Website](https://www.meepletracker.com)  
 
 ## Youtube | Reviews & Let's Play
