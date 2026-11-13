@@ -86,6 +86,11 @@ Free | Affiliate Marketing. Founded 2010, **AnyFinder**.
 200.000+ monthly visits[^8] | [Official Website](https://www.tabletopfinder.eu)  
 [^8]: 18/09/2024 - SimilarWeb.
 
+#### MeepleTracker ![ES](https://flagcdn.com/w20/es.png)
+Price runner for board games. Europe and North America.  
+Free | Affiliate Marketing. Founded 2026, **AnyFinder**.  
+unknown monthly visits | [Official Website](https://www.meepletracker.com)  
+
 ## Youtube | Reviews & Let's Play
 #### Shut Up & Sit Down ![CA](https://flagcdn.com/w20/ca.png)
 430.000+ subscribers. 97M+ views. 580+ videos[^updated].  
